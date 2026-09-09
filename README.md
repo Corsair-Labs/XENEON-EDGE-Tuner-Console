@@ -13,8 +13,12 @@ The application provides controls for:
 - Identifying and factory-resetting a selected XENEON EDGE display.
 - Reading, saving, and applying display-setting profiles.
 - Synchronizing settings across multiple connected XENEON EDGE displays.
+- Choosing from persistent VS Code-inspired, CORSAIR Labs, and Sensor Lime
+  interface themes.
 - Keeping a correlated Windows display orientation aligned with the physical
   display, with a confirmation countdown and automatic rollback protection.
+- Confirming slider adjustments within 15 seconds, with automatic restoration
+  of the previous display values if the countdown expires.
 
 ## Requirements
 
@@ -40,23 +44,23 @@ required.
 7. Select **Show Profiles** to create, edit, read, save, or write reusable
    profiles. When multiple displays are connected, **Sync all connected
    displays** applies the selected display's settings to the others.
-8. After a profile or synchronized write, verify the result and select
-   **Keep New Display Settings** before the countdown expires. Otherwise, the
-   application restores the previous settings.
+8. After a profile write, synchronized write, or slider adjustment, verify the
+   result and select the corresponding **Keep** button before the countdown
+   expires. Otherwise, the application restores the previous settings.
 
 Because this executable is not digitally signed, Windows may show a security
 warning. Only run software downloaded from a source you trust.
 
 ## Download Verification
 
-Version: `0.13.11`
+Version: `0.13.12`
 
-[Download Xeneon Edge Tuner Console v0.13.11](https://github.com/Corsair-Labs/XENEON-EDGE-Tuner-Console/releases/download/v0.13.11/Xeneon_Edge_Tuner_Console_v0.13.11.exe)
+[Download Xeneon Edge Tuner Console v0.13.12](https://github.com/Corsair-Labs/XENEON-EDGE-Tuner-Console/releases/download/v0.13.12/Xeneon_Edge_Tuner_Console_v0.13.12.exe)
 
 SHA-256:
 
 ```text
-8BA6561B8791AF2F9DF9F0FE16F1CFE2258286020ADBFC01356900E6D70B764C
+0551C74717FD77F7733A07A3AD6DBB6050D5A8DF9815CEC60AB44C850923A6F9
 ```
 
 ## Disclaimer and License
