@@ -13,8 +13,8 @@ The application provides controls for:
 - Identifying and factory-resetting a selected XENEON EDGE display.
 - Reading, saving, and applying display-setting profiles.
 - Synchronizing settings across multiple connected XENEON EDGE displays.
-- Choosing from persistent VS Code-inspired, CORSAIR Labs, and Sensor Lime
-  interface themes.
+- Choosing from persistent VS Code-inspired, CORSAIR Labs, Sensor Lime, and
+  Teams Dark interface themes.
 - Keeping a correlated Windows display orientation aligned with the physical
   display, with a confirmation countdown and automatic rollback protection.
 - Confirming slider adjustments within 15 seconds, with automatic restoration
@@ -53,14 +53,14 @@ warning. Only run software downloaded from a source you trust.
 
 ## Download Verification
 
-Version: `0.13.12`
+Version: `0.13.13`
 
-[Download Xeneon Edge Tuner Console v0.13.12](https://github.com/Corsair-Labs/XENEON-EDGE-Tuner-Console/releases/download/v0.13.12/Xeneon_Edge_Tuner_Console_v0.13.12.exe)
+[Download Xeneon Edge Tuner Console v0.13.13](https://github.com/Corsair-Labs/XENEON-EDGE-Tuner-Console/releases/download/v0.13.13/Xeneon_Edge_Tuner_Console_v0.13.13.exe)
 
 SHA-256:
 
 ```text
-0551C74717FD77F7733A07A3AD6DBB6050D5A8DF9815CEC60AB44C850923A6F9
+B8D04F42C65AA253D4F554B4C755BEDB394C44274D9A36ACCB0E84149D37F76B
 ```
 
 ## Disclaimer and License
