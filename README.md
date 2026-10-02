@@ -32,7 +32,7 @@ required.
 ## How to Use
 
 1. Download
-   [Xeneon Edge Tuner Console v0.16.0](https://github.com/Corsair-Labs/XENEON-EDGE-Tuner-Console/raw/refs/heads/main/Xeneon_Edge_Tuner_Console_v0.16.0.exe).
+   [Xeneon Edge Tuner Console v0.16.4](https://github.com/Corsair-Labs/XENEON-EDGE-Tuner-Console/raw/refs/heads/main/Xeneon_Edge_Tuner_Console_v0.16.4.exe).
 2. Place it in a writable folder. The application creates and updates
    `xe_profiles.json` beside the executable.
 3. Connect the XENEON EDGE to the PC by USB and connect it as a Windows display.
@@ -53,14 +53,14 @@ warning. Only run software downloaded from a source you trust.
 
 ## Download Verification
 
-Version: `0.16.0`
+Version: `0.16.4`
 
-[Download Xeneon Edge Tuner Console v0.16.0](https://github.com/Corsair-Labs/XENEON-EDGE-Tuner-Console/raw/refs/heads/main/Xeneon_Edge_Tuner_Console_v0.16.0.exe)
+[Download Xeneon Edge Tuner Console v0.16.4](https://github.com/Corsair-Labs/XENEON-EDGE-Tuner-Console/raw/refs/heads/main/Xeneon_Edge_Tuner_Console_v0.16.4.exe)
 
 SHA-256:
 
 ```text
-F8FE15B5FF207E889833C77F5861B77B871FCD6EC2749E9076B6326E0A55D4D2
+401D5C9E53D0B4D8F1EF789885233C56600C89CDE1713BDAB3CF2490A204E174
 ```
 
 ## Disclaimer and License
